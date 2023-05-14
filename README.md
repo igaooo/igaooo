@@ -1,9 +1,19 @@
-### Igor Carvalho 👋
 
-- 🔭 Front-End
-- 🌱 Cursando Engenharia da Computação no IFSP Câmpus Birigui 7/10
-- 👯 Diretor de Projetos da Vanellus Empresa Júnior
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/DOcAEJMV7VkyRyw4uz/giphy.gif?cid=ecf05e479szh36l480oq3aetunptgrp7wfgpnykj914ag2vv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  
+### Hi 👋, I'm Igor Carvalho 
 
+  -💻 Computer Engineering Student at IFSP Campus Birigui (2020-2024).
+<br>
+</br>
+  -📍 I live in São Paulo/SP - Birigui/SP
+<br>
+</br>
+  -🔍 Project Director at Vanellus Empresa Júnior
+<br>
+</br>
+  -🌱 I'm currently learning React and Python
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igaooo&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
@@ -21,5 +31,5 @@
   <a href="https://instagram.com/igao_11t="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/igao_11t="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:igor.carval12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2023/01/Sasuke-Uchiha.webp?fit=1280%2C676&ssl=1">
+  
 </div>
